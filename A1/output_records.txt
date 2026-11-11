@@ -1,0 +1,10 @@
+VU-010,John Ssentongo,BCS2204,A,93.5
+VU-003,Cynthia Namubiru,BCS2204,A,90
+VU-007,Grace Nakafeero,BCS2204,A,88.5
+VU-001,Alicia Nakato,BCS2204,A,82.5
+VU-008,Hassan Mwesigwa,BCS2204,B,79
+VU-005,Evelyn Akello,BCS2204,B,74
+VU-002,Brian Mugisha,BCS2204,C,65
+VU-009,Isabella Kigozi,BCS2204,C,62
+VU-004,David Okello,BCS2204,D,55.5
+VU-006,Frank Ssemakula,BCS2204,E,45
